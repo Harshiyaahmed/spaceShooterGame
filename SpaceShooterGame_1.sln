@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceShooterGame_1", "SpaceShooterGame_1.csproj", "{EEDD4ABB-711E-45ED-A2BA-CAE71C4B6E59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bin", "bin", "{E064960B-456D-461C-BBCA-94F192F3BCF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{BFD98FAB-CA46-43C0-82EE-00109FAD0F85}"
+	ProjectSection(SolutionItems) = preProject
+		bin\Debug\SpaceShooterGame.exe = bin\Debug\SpaceShooterGame.exe
+		bin\Debug\SpaceShooterGame.exe.config = bin\Debug\SpaceShooterGame.exe.config
+		bin\Debug\SpaceShooterGame.pdb = bin\Debug\SpaceShooterGame.pdb
+		bin\Debug\SpaceShooterGame.vshost.exe = bin\Debug\SpaceShooterGame.vshost.exe
+		bin\Debug\SpaceShooterGame.vshost.exe.config = bin\Debug\SpaceShooterGame.vshost.exe.config
+		bin\Debug\SpaceShooterGame.vshost.exe.manifest = bin\Debug\SpaceShooterGame.vshost.exe.manifest
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Realease", "Realease", "{1997354D-25D9-45EB-9A54-94249D26531F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "obj", "obj", "{2B797E3A-032E-499F-9F4F-7B1E981E2C42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{62F5C743-BC15-4FA8-990F-C4CB7F6335A8}"
+	ProjectSection(SolutionItems) = preProject
+		obj\Debug\DesignTimeResolveAssemblyReferences.cache = obj\Debug\DesignTimeResolveAssemblyReferences.cache
+		obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache = obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+		obj\Debug\SpaceShooterGame.csproj.AssemblyReference.cache = obj\Debug\SpaceShooterGame.csproj.AssemblyReference.cache
+		obj\Debug\SpaceShooterGame.csproj.FileListAbsolute.txt = obj\Debug\SpaceShooterGame.csproj.FileListAbsolute.txt
+		obj\Debug\SpaceShooterGame.csproj.GenerateResource.Cache = obj\Debug\SpaceShooterGame.csproj.GenerateResource.Cache
+		obj\Debug\SpaceShooterGame.csprojResolveAssemblyReference.cache = obj\Debug\SpaceShooterGame.csprojResolveAssemblyReference.cache
+		obj\Debug\SpaceShooterGame.exe = obj\Debug\SpaceShooterGame.exe
+		obj\Debug\SpaceShooterGame.Form1.resources = obj\Debug\SpaceShooterGame.Form1.resources
+		obj\Debug\SpaceShooterGame.pdb = obj\Debug\SpaceShooterGame.pdb
+		obj\Debug\SpaceShooterGame.Properties.Resources.resources = obj\Debug\SpaceShooterGame.Properties.Resources.resources
+		obj\Debug\SpaceShooterGame_1.csproj.AssemblyReference.cache = obj\Debug\SpaceShooterGame_1.csproj.AssemblyReference.cache
+		obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs = obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+		obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs = obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+		obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs = obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{97847BCA-A61F-4EEE-B340-43E06635D2E7}"
+	ProjectSection(SolutionItems) = preProject
+		obj\Release\SpaceShooterGame.csproj.AssemblyReference.cache = obj\Release\SpaceShooterGame.csproj.AssemblyReference.cache
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Properties", "Properties", "{9ED97376-56FC-4BCD-9C48-3B5BEDFE0D75}"
+	ProjectSection(SolutionItems) = preProject
+		Properties\AssemblyInfo.cs = Properties\AssemblyInfo.cs
+		Properties\Resources.Designer.cs = Properties\Resources.Designer.cs
+		Properties\Resources.resx = Properties\Resources.resx
+		Properties\Settings.Designer.cs = Properties\Settings.Designer.cs
+		Properties\Settings.settings = Properties\Settings.settings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{98802B69-D22C-4656-9B9C-77455E2993FC}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\DeathStar.png = Resources\DeathStar.png
+		Resources\DeathStar1.png = Resources\DeathStar1.png
+		Resources\DeathStarBlank.png = Resources\DeathStarBlank.png
+		Resources\Fighter1.png = Resources\Fighter1.png
+		Resources\Fighter2.png = Resources\Fighter2.png
+		Resources\FireBall.png = Resources\FireBall.png
+		Resources\fireExplotion1.png = Resources\fireExplotion1.png
+		Resources\fireExplotion2.png = Resources\fireExplotion2.png
+		Resources\Missile.png = Resources\Missile.png
+		Resources\PowerUp.png = Resources\PowerUp.png
+		Resources\SpaceShip1.png = Resources\SpaceShip1.png
+		Resources\SpaceShip2.png = Resources\SpaceShip2.png
+		Resources\startDestroyer1.png = Resources\startDestroyer1.png
+		Resources\startDestroyerBlank.png = Resources\startDestroyerBlank.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDD4ABB-711E-45ED-A2BA-CAE71C4B6E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDD4ABB-711E-45ED-A2BA-CAE71C4B6E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDD4ABB-711E-45ED-A2BA-CAE71C4B6E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDD4ABB-711E-45ED-A2BA-CAE71C4B6E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BFD98FAB-CA46-43C0-82EE-00109FAD0F85} = {E064960B-456D-461C-BBCA-94F192F3BCF4}
+		{1997354D-25D9-45EB-9A54-94249D26531F} = {E064960B-456D-461C-BBCA-94F192F3BCF4}
+		{62F5C743-BC15-4FA8-990F-C4CB7F6335A8} = {2B797E3A-032E-499F-9F4F-7B1E981E2C42}
+		{97847BCA-A61F-4EEE-B340-43E06635D2E7} = {2B797E3A-032E-499F-9F4F-7B1E981E2C42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15F835A6-B26F-4AC8-82AF-5AE31ED489F7}
+	EndGlobalSection
+EndGlobal
